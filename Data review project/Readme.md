@@ -71,3 +71,14 @@ plt.show()
 With this code I customized the title, x label blank, y label renamed and adjusted x series to show the name rotated for proper sizing on the view, as well the format was changed on the Y axis to show with the proper USD$ format.
 
 ![alt text](image-1.png)
+
+
+## Service Interruptions by Region
+
+With the service interruptions by region I followed a similar method as the Initial assestment to review the median of service interruptions and detect issues by region to review trends that may be occurring. With this review I concluded the following: 
+
+1. Service interruptions by Region look solid through the year, however are some noticeable spikes in the Northeast region during May-July and November-December months.
+2. Overall we can see a trending pattern that splits regions in two parts, leaving Northeast and West regions in the low half of service interruptions (median 6-9 interruptions every month) and regions South and middle West on the high half of interruptions (median 11-12 interruptions every month)
+3. This pattern clearly leaves a high remark on required review for South and Middle West regions since tend to have almost double service interruptions than the other two regions.
+
+![alt text](image-2.png)
