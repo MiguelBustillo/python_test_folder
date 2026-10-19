@@ -70,7 +70,7 @@ plt.show()
 
 With this code I customized the title, x label blank, y label renamed and adjusted x series to show the name rotated for proper sizing on the view, as well the format was changed on the Y axis to show with the proper USD$ format.
 
-![alt text](image-1.png)
+![ARPU Comparison](image-1.png)
 
 
 ## Service Interruptions by Region
