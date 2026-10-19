@@ -82,3 +82,18 @@ With the service interruptions by region I followed a similar method as the Init
 3. This pattern clearly leaves a high remark on required review for South and Middle West regions since tend to have almost double service interruptions than the other two regions.
 
 ![alt text](image-2.png)
+
+
+## Population Coverage
+
+With the Population Coverage the method was different to do a pie chart since different data was required and to plot requires less information.
+With the pie chart I can confirm the following: 
+
+1. The coverage is above 90% (93.1% coverage) overall.
+2. The regions with the highest "No Access" population are South and Midwest regions with above 8% of no coverage.
+3. The lowest regions with no coverage are west and northeast with 95% of coverage.
+
+With this I practiced the subplot method that allow to have multiple charts (of the sae type) within the same figure, usefull when plotting multiple items (like regions in this case) for a proper comparison visually.
+
+![alt text](image-3.png)
+
