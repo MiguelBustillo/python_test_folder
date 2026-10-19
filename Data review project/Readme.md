@@ -70,7 +70,7 @@ plt.show()
 
 With this code I customized the title, x label blank, y label renamed and adjusted x series to show the name rotated for proper sizing on the view, as well the format was changed on the Y axis to show with the proper USD$ format.
 
-![ARPU Comparison](image-1.png)
+![ARPU Comparison](ARPU_Comparison.png)
 
 
 ## Service Interruptions by Region
@@ -81,7 +81,7 @@ With the service interruptions by region I followed a similar method as the Init
 2. Overall we can see a trending pattern that splits regions in two parts, leaving Northeast and West regions in the low half of service interruptions (median 6-9 interruptions every month) and regions South and middle West on the high half of interruptions (median 11-12 interruptions every month)
 3. This pattern clearly leaves a high remark on required review for South and Middle West regions since tend to have almost double service interruptions than the other two regions.
 
-![alt text](image-2.png)
+![Service Interruptions](Service_interruptions.png)
 
 
 ## Population Coverage
@@ -95,5 +95,5 @@ With the pie chart I can confirm the following:
 
 With this I practiced the subplot method that allow to have multiple charts (of the sae type) within the same figure, usefull when plotting multiple items (like regions in this case) for a proper comparison visually.
 
-![alt text](image-3.png)
+![Region Comparison](Region_comparison.png)
 
